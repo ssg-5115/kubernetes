@@ -8,3 +8,4 @@ metadata:
   annotations:
     owner: devops-team@example.com
     purpose: "Isolated namespace for backend services"
+    
